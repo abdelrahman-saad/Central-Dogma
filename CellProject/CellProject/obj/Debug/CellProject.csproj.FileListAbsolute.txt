@@ -1,0 +1,36 @@
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\CellProject.csprojAssemblyReference.cache
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\CellProject.Properties.Resources.resources
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\CellProject.csproj.GenerateResource.cache
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\CellProject.csproj.CoreCompileInputs.cache
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\bin\Debug\CellProject.exe.config
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\bin\Debug\CellProject.exe
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\bin\Debug\CellProject.pdb
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\ConsoleApp2.Form1.resources
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\ConsoleApp2.Form2.resources
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\ConsoleApp2.Form3.resources
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\CellProject.exe
+C:\Users\AMR HANY\source\repos\CellProject\CellProject\obj\Debug\CellProject.pdb
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\bin\Debug\CellProject.exe.config
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\bin\Debug\CellProject.exe
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\bin\Debug\CellProject.pdb
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\CellProject.csprojAssemblyReference.cache
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\ConsoleApp2.Form1.resources
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\ConsoleApp2.Form2.resources
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\ConsoleApp2.Form3.resources
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\CellProject.Properties.Resources.resources
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\CellProject.csproj.GenerateResource.cache
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\CellProject.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\CellProject.exe
+C:\Users\Abdelrahman\Desktop\New folder (4)\CellProject\CellProject\obj\Debug\CellProject.pdb
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\bin\Debug\CellProject.exe.config
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\bin\Debug\CellProject.exe
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\bin\Debug\CellProject.pdb
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\CellProject.csprojAssemblyReference.cache
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\ConsoleApp2.Form1.resources
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\ConsoleApp2.Form2.resources
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\ConsoleApp2.Form3.resources
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\CellProject.Properties.Resources.resources
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\CellProject.csproj.GenerateResource.cache
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\CellProject.csproj.CoreCompileInputs.cache
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\CellProject.exe
+C:\Users\AMR HANY\Desktop\CellProject\CellProject\obj\Debug\CellProject.pdb
